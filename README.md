@@ -12,7 +12,7 @@ simulated people. Your agent reads a natural-language instruction from its
 
 ## 1. Setup (~3 min) — needs Python 3.11
 ```bash
-git clone git@github.com:interface4agi/hack_agent_arena.git
+git clone https://github.com/interface4agi/hack_agent_arena.git
 cd hack_agent_arena
 bash setup.sh                 # installs uv+py3.11, appworld + data, creates .env; verifies
 source .venv/bin/activate
