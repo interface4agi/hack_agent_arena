@@ -1,0 +1,24 @@
+{
+    "file_system": {
+        "File": 2,
+        "Directory": 5
+    },
+    "gmail": {
+        "Attachment": 2,
+        "Email": 1,
+        "GlobalEmailThread": 1,
+        "UserEmailThread": 2
+    },
+    "amazon": {
+        "CartEntry": 7,
+        "Order": 1,
+        "OrderItem": 4,
+        "Product": 4
+    },
+    "admin": {
+        "PaymentCard": 1
+    },
+    "supervisor": {
+        "Task": 1
+    }
+}

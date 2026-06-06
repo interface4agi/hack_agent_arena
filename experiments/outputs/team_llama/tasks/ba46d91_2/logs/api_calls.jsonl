@@ -1,0 +1,8 @@
+{"method": "get", "url": "/api_docs/app_descriptions", "data": {}}
+{"method": "get", "url": "/api_docs/api_descriptions", "data": {"app_name": "amazon"}}
+{"method": "get", "url": "/supervisor/account_passwords", "data": {}}
+{"method": "get", "url": "/supervisor/account_passwords", "data": {}}
+{"method": "get", "url": "/supervisor/profile", "data": {}}
+{"method": "post", "url": "/amazon/auth/token", "data": {"username": "kevin.blac@gmail.com", "password": "@#@wvsw"}}
+{"method": "get", "url": "/amazon/prime/subscriptions", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhbWF6b24ra2V2aW4uYmxhY0BnbWFpbC5jb20iLCJleHAiOjE2ODQ0NTUzMDh9.1P89yNjCShVO9e8-OFf8aHoZzg3QXi39tTmEfCB4Cac"}}
+{"method": "post", "url": "/supervisor/message", "data": {"answer": 10}}

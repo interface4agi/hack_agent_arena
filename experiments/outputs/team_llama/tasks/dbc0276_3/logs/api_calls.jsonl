@@ -1,0 +1,13 @@
+{"method": "get", "url": "/api_docs/app_descriptions", "data": {}}
+{"method": "get", "url": "/api_docs/api_descriptions", "data": {"app_name": "supervisor"}}
+{"method": "get", "url": "/api_docs/api_descriptions", "data": {"app_name": "amazon"}}
+{"method": "get", "url": "/api_docs/api_descriptions", "data": {"app_name": "phone"}}
+{"method": "get", "url": "/supervisor/profile", "data": {}}
+{"method": "get", "url": "/supervisor/account_passwords", "data": {}}
+{"method": "post", "url": "/phone/auth/token", "data": {"username": "9312015677", "password": "N^ssqde"}}
+{"method": "get", "url": "/phone/contact_relationships", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs5MzEyMDE1Njc3IiwiZXhwIjoxNjg0NDEyMDk4fQ.L8EoKqxFZX5_kevJhk5o5L5q5LsbB9QTRk0mxvoNCCI"}}
+{"method": "get", "url": "/phone/contacts", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs5MzEyMDE1Njc3IiwiZXhwIjoxNjg0NDEyMDk4fQ.L8EoKqxFZX5_kevJhk5o5L5q5LsbB9QTRk0mxvoNCCI", "relationship": "partner"}}
+{"method": "post", "url": "/amazon/auth/token", "data": {"username": "brenda.webe@gmail.com", "password": "{(u%}@f"}}
+{"method": "get", "url": "/amazon/wish_list", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhbWF6b24rYnJlbmRhLndlYmVAZ21haWwuY29tIiwiZXhwIjoxNjg0NDEyNzQxfQ.yW_czU8_FFBvr0GuUmZrKTK1yCJrLxcoTTf4varQHcQ"}}
+{"method": "post", "url": "/phone/messages/text/7196131136", "data": {"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJwaG9uZSs5MzEyMDE1Njc3IiwiZXhwIjoxNjg0NDEyMDk4fQ.L8EoKqxFZX5_kevJhk5o5L5q5LsbB9QTRk0mxvoNCCI", "message": "3M Scotch 8-in Cable Ties => $5\nSawyer Products Mini Water Filtration System => $25\nHamilton Beach 8-Cup Compact Food Processor => $30\nCraftsman 8-Inch Arc Joint Pliers => $9\nHusky Adjustable Height Work Table => $199\nAscend Trekking Poles => $30\nOXO Good Grips\u00ae Stainless Steel Soap Dispenser => $20"}}
+{"method": "post", "url": "/supervisor/message", "data": {"answer": null}}
